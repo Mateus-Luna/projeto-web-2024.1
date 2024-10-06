@@ -272,6 +272,18 @@ footer {
     padding: 20px 0;
     margin-top: 40px;
 }
+.mb-0{
+    color: white;
+}
+
+.blockquote-footer {
+    color: white;
+}
+
+.blockquote-footer cite {
+    color: white;
+}
+
 
 footer a {
     color: #fff;
