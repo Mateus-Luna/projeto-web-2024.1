@@ -3,6 +3,6 @@ Projeto de Construção de uma Página Web para uma Cooperativa Fictícia de  Pr
 
 Grupo:
 
-Mateus Medeiros de Araujo Almeida
-Anderson Victor da Silva Siqueira Melo
-Vinicius Furtado de Holanda Sá
+- Mateus Medeiros de Araujo Almeida
+- Anderson Victor da Silva Siqueira Melo
+- Vinicius Furtado de Holanda Sá
